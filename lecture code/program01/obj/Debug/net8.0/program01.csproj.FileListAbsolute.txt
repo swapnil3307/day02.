@@ -1,0 +1,14 @@
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.AssemblyInfoInputs.cache
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.AssemblyInfo.cs
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.csproj.CoreCompileInputs.cache
+D:\internship.net\Day02\program01\bin\Debug\net8.0\program01.exe
+D:\internship.net\Day02\program01\bin\Debug\net8.0\program01.deps.json
+D:\internship.net\Day02\program01\bin\Debug\net8.0\program01.runtimeconfig.json
+D:\internship.net\Day02\program01\bin\Debug\net8.0\program01.dll
+D:\internship.net\Day02\program01\bin\Debug\net8.0\program01.pdb
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.dll
+D:\internship.net\Day02\program01\obj\Debug\net8.0\refint\program01.dll
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.pdb
+D:\internship.net\Day02\program01\obj\Debug\net8.0\program01.genruntimeconfig.cache
+D:\internship.net\Day02\program01\obj\Debug\net8.0\ref\program01.dll

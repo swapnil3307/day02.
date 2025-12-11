@@ -1,0 +1,14 @@
+D:\internship.net\Day02\assignment01\Assignment01\Program06\bin\Debug\net8.0\Program06.exe
+D:\internship.net\Day02\assignment01\Assignment01\Program06\bin\Debug\net8.0\Program06.deps.json
+D:\internship.net\Day02\assignment01\Assignment01\Program06\bin\Debug\net8.0\Program06.runtimeconfig.json
+D:\internship.net\Day02\assignment01\Assignment01\Program06\bin\Debug\net8.0\Program06.dll
+D:\internship.net\Day02\assignment01\Assignment01\Program06\bin\Debug\net8.0\Program06.pdb
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.AssemblyInfoInputs.cache
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.AssemblyInfo.cs
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.csproj.CoreCompileInputs.cache
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.dll
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\refint\Program06.dll
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.pdb
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\Program06.genruntimeconfig.cache
+D:\internship.net\Day02\assignment01\Assignment01\Program06\obj\Debug\net8.0\ref\Program06.dll
