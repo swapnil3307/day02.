@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net-Internship\\Day02\\Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day02\\assignments\\program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|d:\\.net-internship\\day02\\assignments\\program01\\program01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6279EA4-CB2C-5C25-0C41-658E375A9B6B}|Program01\\Program01.csproj|solutionrelative:program01\\program01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day02\\Assignments\\Program01\\Program.cs",
+              "RelativeDocumentMoniker": "Program01\\Program.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day02\\Assignments\\Program01\\Program.cs",
+              "RelativeToolTip": "Program01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:33:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program01",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day02\\Assignments\\Program01\\Program01.csproj",
+              "RelativeDocumentMoniker": "Program01\\Program01.csproj",
+              "ToolTip": "D:\\.Net-Internship\\Day02\\Assignments\\Program01\\Program01.csproj",
+              "RelativeToolTip": "Program01\\Program01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T07:33:34.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

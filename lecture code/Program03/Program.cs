@@ -5,12 +5,12 @@
         static void Main(string[] args)
         {
             int[] arr1 = { 10, 20, 30, 40 };
-            for(int i  = 0; i < arr1.Length; i++)
+            for (int i = 0; i < arr1.Length; i++)
             {
-               Console.WriteLine(arr1[i]);
+                Console.WriteLine(arr1[i]);
             }
             int[] arr = new int[3];
-            for(int i = 0;i < arr.Length;i++)
+            for (int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine(i);
             }

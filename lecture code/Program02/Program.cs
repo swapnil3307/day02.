@@ -15,7 +15,7 @@ namespace Program02
                 case 1:
                     e1 = new Manager();
                     break;
-                    case 2:
+                case 2:
                     e1 = new Salesmanager();
                     break;
             }
@@ -30,7 +30,7 @@ namespace Program02
     class Employee
     {
         private int _id;
-        
+
 
         public int Id
         {
@@ -69,20 +69,20 @@ namespace Program02
         }
     }
 
-        class Manager : Employee
-        {
-            private double _bonus;
+    class Manager : Employee
+    {
+        private double _bonus;
 
-            public double bonus
-            {
-                get { return _bonus; }
-                set { _bonus = value; }
-            }
-            public override double CalSalary()
-            {
-                
-                return Salary + _bonus;
-            }
+        public double bonus
+        {
+            get { return _bonus; }
+            set { _bonus = value; }
+        }
+        public override double CalSalary()
+        {
+
+            return Salary + _bonus;
+        }
         public override void Accept()
         {
             base.Accept();
@@ -91,35 +91,35 @@ namespace Program02
 
         }
 
-            public override void DoWork()
-            {
-                Console.WriteLine("manager do Work");
-            }
-            public override void Display()
-            {
-                Console.WriteLine("salary : " + this.CalSalary());
-            }
+        public override void DoWork()
+        {
+            Console.WriteLine("manager do Work");
+        }
+        public override void Display()
+        {
+            Console.WriteLine("salary : " + this.CalSalary());
+        }
+    }
+
+    class Salesmanager : Employee
+    {
+        private double _comm;
+
+        public double comm
+        {
+            get { return _comm; }
+            set { _comm = value; }
         }
 
-        class Salesmanager : Employee
+        public override double CalSalary()
         {
-            private double _comm;
+            return Salary + _comm;
+        }
 
-            public double comm
-            {
-                get { return _comm; }
-                set { _comm = value; }
-            }
-
-            public override double CalSalary()
-            {
-                return Salary + _comm;
-            }
-
-            public virtual void DoWork()
-            {
-                Console.WriteLine("salesman do work");
-            }
+        public virtual void DoWork()
+        {
+            Console.WriteLine("salesman do work");
+        }
         public override void Accept()
         {
             base.Accept();
@@ -128,16 +128,16 @@ namespace Program02
 
         }
         public override void Display()
-            {
-                Console.WriteLine("salary : " + this.CalSalary());
-            }
-
+        {
+            Console.WriteLine("salary : " + this.CalSalary());
         }
+
+    }
 
     class Labour : Employee
     {
 
     }
 
-    }
+}
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\internship.net\\Day02\\Program04\\Program04.csproj": {}
+    "D:\\.Net-Internship\\Day02\\Lecture code\\Program04\\Program04.csproj": {}
   },
   "projects": {
-    "D:\\internship.net\\Day02\\Program04\\Program04.csproj": {
+    "D:\\.Net-Internship\\Day02\\Lecture code\\Program04\\Program04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship.net\\Day02\\Program04\\Program04.csproj",
+        "projectUniqueName": "D:\\.Net-Internship\\Day02\\Lecture code\\Program04\\Program04.csproj",
         "projectName": "Program04",
-        "projectPath": "D:\\internship.net\\Day02\\Program04\\Program04.csproj",
+        "projectPath": "D:\\.Net-Internship\\Day02\\Lecture code\\Program04\\Program04.csproj",
         "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
-        "outputPath": "D:\\internship.net\\Day02\\Program04\\obj\\",
+        "outputPath": "D:\\.Net-Internship\\Day02\\Lecture code\\Program04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

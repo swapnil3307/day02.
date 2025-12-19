@@ -21,23 +21,25 @@ namespace Program04
 
             e1.Display();
             e2.Display();
-            e3.Display(); 
+            e3.Display();
             e4.Display();
             e5.Display();
         }
     }
     class Employee
     {
-    
+
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Address { get; set;
-            }
+        public string Address
+        {
+            get; set;
+        }
         public void Display()
         {
             Console.WriteLine($"id:{Id} name: {Name} address: {Address}");
-                   
-          
+
+
         }
     }
 }

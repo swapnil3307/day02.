@@ -1,28 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\internship.net\\Day02\\",
+  "WorkspaceRootPath": "D:\\.Net-Internship\\Day02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42128C3D-9010-4616-81B5-21A70B74E99A}|Program04\\Program04.csproj|d:\\internship.net\\day02\\program04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42128C3D-9010-4616-81B5-21A70B74E99A}|Program04\\Program04.csproj|solutionrelative:program04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89CFCDC-2CE6-4FE3-A128-D7EDABADE6CB}|Program02\\Program02.csproj|d:\\internship.net\\day02\\program02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89CFCDC-2CE6-4FE3-A128-D7EDABADE6CB}|Program02\\Program02.csproj|solutionrelative:program02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\InheritanceDemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E307DCC6-E449-430C-B078-E152C1A5780D}|Program03\\Program03.csproj|d:\\internship.net\\day02\\program03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E307DCC6-E449-430C-B078-E152C1A5780D}|Program03\\Program03.csproj|solutionrelative:program03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B55783E-810C-4C74-A496-79F2D67780C5}|program01\\program01.csproj|d:\\internship.net\\day02\\program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B55783E-810C-4C74-A496-79F2D67780C5}|program01\\program01.csproj|solutionrelative:program01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A36AF42-8B45-4EC8-94CD-2E2A7951FBD4}|Program04\\Program04.csproj|d:\\.net-internship\\day02\\program04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36AF42-8B45-4EC8-94CD-2E2A7951FBD4}|Program04\\Program04.csproj|solutionrelative:program04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,80 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\internship.net\\Day02\\Program04\\Program.cs",
+              "DocumentMoniker": "D:\\.Net-Internship\\Day02\\Program04\\Program.cs",
               "RelativeDocumentMoniker": "Program04\\Program.cs",
-              "ToolTip": "D:\\internship.net\\Day02\\Program04\\Program.cs",
+              "ToolTip": "D:\\.Net-Internship\\Day02\\Program04\\Program.cs",
               "RelativeToolTip": "Program04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T05:01:12.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\internship.net\\Day02\\Program03\\Program.cs",
-              "RelativeDocumentMoniker": "Program03\\Program.cs",
-              "ToolTip": "D:\\internship.net\\Day02\\Program03\\Program.cs",
-              "RelativeToolTip": "Program03\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:15:10.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T03:28:31.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\InheritanceDemo\\Program.cs",
-              "ToolTip": "C:\\Swapnil\\OneDrive\\Desktop\\Internships\\codes\\day01\\ConsoleApp1\\InheritanceDemo\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T03:01:33.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\internship.net\\Day02\\Program02\\Program.cs",
-              "RelativeDocumentMoniker": "Program02\\Program.cs",
-              "ToolTip": "D:\\internship.net\\Day02\\Program02\\Program.cs",
-              "RelativeToolTip": "Program02\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAuwHYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T02:55:51.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\internship.net\\Day02\\program01\\Program.cs",
-              "RelativeDocumentMoniker": "program01\\Program.cs",
-              "ToolTip": "D:\\internship.net\\Day02\\program01\\Program.cs",
-              "RelativeToolTip": "program01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T02:45:05.066Z",
+              "WhenOpened": "2025-12-19T07:30:29.94Z",
               "EditorCaption": ""
             }
           ]
